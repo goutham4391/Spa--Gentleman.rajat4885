@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+gentlemansbarberspa.com	TRUE	/	FALSE	1999999999	crumb	BchfKlEd8WkAYmZjZjI4Yjk3N2MwMDllYjcxZjNlNDRmMjI1ODM1
+

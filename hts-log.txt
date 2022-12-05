@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Dec 2022 19:22:33 at https://gentlemansbarberspa.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gentlemansbarberspa.com/ -O1 "C:\Users\RAJAT SINGH\OneDrive\Desktop\Internship myknot\Day25\Web127\Site127" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:25:50	Error: 	"Bad Request" (400) at link https://gentlemansbarberspa.com/"//www.youtube.com/embed/62-M8RgAP6A?wmode=opaque&amp;enablejsapi=1\%22 (from https://gentlemansbarberspa.com/)
+19:25:50	Error: 	"Not Found" (404) at link https://gentlemansbarberspa.com/"//www.youtube.com/embed/62-M8RgAP6A?wmode=opaque&enablejsapi=1%22 (from https://gentlemansbarberspa.com/)
+19:25:50	Error: 	"Not Found" (404) at link https://gentlemansbarberspa.com/our-hair-products (from https://gentlemansbarberspa.com/)
+19:26:59	Warning: 	Moved Permanently for static1.squarespace.com/static/563a6d43e4b0979282764ff7/56a669c84bf11812cc1ff45a/56ec68cc4c2f85392f821c3a/1458334746352/Taper-Back-with-Classic-Side-Part.jpg?format=1500w
+19:26:59	Warning: 	Warning moved treated for static1.squarespace.com/static/563a6d43e4b0979282764ff7/56a669c84bf11812cc1ff45a/56ec68cc4c2f85392f821c3a/1458334746352/Taper-Back-with-Classic-Side-Part.jpg?format=1500w (real one is https://images.squarespace-cdn.com/content/563a6d43e4b0979282764ff7/1458334618327-8NZ9E1KWYD7EAFUXEEXD/Taper-Back-with-Classic-Side-Part.jpg?content-type=image%2Fjpeg)
+19:26:59	Warning: 	Moved Permanently for static1.squarespace.com/static/563a6d43e4b0979282764ff7/t/56c35129f85082fc106ef7f4/1455640908933/12650838_10154485479567538_5397364559261688889_n.jpg?format=1500w
+19:26:59	Warning: 	Warning moved treated for static1.squarespace.com/static/563a6d43e4b0979282764ff7/t/56c35129f85082fc106ef7f4/1455640908933/12650838_10154485479567538_5397364559261688889_n.jpg?format=1500w (real one is https://images.squarespace-cdn.com/content/563a6d43e4b0979282764ff7/1455640873612-5ANP06PYLOXPTQ8W5AMG/12650838_10154485479567538_5397364559261688889_n.jpg?content-type=image%2Fjpeg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 27 seconds : 217 links scanned, 211 files written (54545691 bytes overall) [43095102 bytes received at 161404 bytes/sec], 15533900 bytes transferred using HTTP compression in 85 files, ratio 24%, 2.2 requests per connection
+(3 errors, 4 warnings, 0 messages)
